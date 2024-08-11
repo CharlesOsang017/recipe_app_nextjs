@@ -1,6 +1,12 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+This is a [Next.js](https://nextjs.org/) RECIPE project built using [dummyjson.com]
 
-## Getting Started
+## Topics covered while building this project
+- Routing & file structure
+- [Nextjs] loading component
+- [nextjs] NotFound component
+- Server components
+- API fetch using server components
+
 
 First, run the development server:
 
